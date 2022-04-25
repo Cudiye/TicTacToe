@@ -104,5 +104,3 @@ while gameRunning:
     checkWin
     checkTie(board)
 
-
-
